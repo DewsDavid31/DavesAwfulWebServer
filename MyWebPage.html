@@ -4,6 +4,14 @@
         <title> My Fist Webpage! </title>
     </head>
     <body>
+        <script>
+            function buttonFunc(){
+                document.getElementById("numtimes").innerHTML = parseInt(document.getElementById("numtimes").innerHTML) + 1
+            }
+            function submitnowhere(){
+                alert("Submitted nowhere! goodbye data!")
+            }    
+        </script>
         <h1> hopefully this webpage will hold some useful things soon!</h1>
         <p>This is a paragraph.</p>
         <hr> This is after a line break! </hr>
@@ -19,8 +27,11 @@
         <form>This is a form<input type="radio" text="yes" name="yes", value="yesyes" checked="checked"><input type="radio" name="yes",text = "yes" value="yesyes" checked="checked"></form>
         <form>This is also form<input type="checkbox" name="yes", value="yesbox" checked="checked"><input type="checkbox" name="yes", value="yesbox" checked="checked"></form>
         <form>This is even also form, wow!<select name="dropdown"><option value = "yes">yes</option><option value = "yes">yes</option><option value = "yes">yes</option><option value = "yes">yes</option><option value = "yes">of course</option><option value = "yes">oh yes</option></select></form>
-        <input type="submit" value="submitnowhere">
-        <button type="button">do nothing button</button>
+        <input type="submit" value="submitnowhere" onclick="submitnowhere()">
+        <button type="button" onclick="buttonFunc()">do nothing button</button>
+        <p>Did nothing<p>
+        <p id="numtimes">0</p>
+        <p>times</p>
         <p style="color:#FFA500"> i'm orange!</p>
         <p style="font-family:Comic Sans MS">I'm in comic sans! ewww!</p>
     </body>
