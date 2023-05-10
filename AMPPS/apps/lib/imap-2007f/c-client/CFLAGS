@@ -1,1 +1,0 @@
--g -O2 -pipe -fno-omit-frame-pointer -Wno-pointer-sign -arch i386 -arch x86_64 -g -Os -pipe -no-cpp-precomp -DCHUNKSIZE=65536

@@ -1,6 +1,0 @@
-PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
-PHP Warning:  Module 'ctype' already loaded in Unknown on line 0
-PHP Warning:  Module 'tokenizer' already loaded in Unknown on line 0
-[Tue Apr 25 15:59:40.644530 2023] [mpm_prefork:notice] [pid 4579] AH00163: Apache/2.4.54 (Unix) OpenSSL/1.1.1l PHP/7.4.33 configured -- resuming normal operations
-[Tue Apr 25 15:59:40.644578 2023] [core:notice] [pid 4579] AH00094: Command line: '/Applications/AMPPS/apps/apache/bin/httpd'
-[Tue Apr 25 16:26:25.924993 2023] [mpm_prefork:notice] [pid 4579] AH00169: caught SIGTERM, shutting down
