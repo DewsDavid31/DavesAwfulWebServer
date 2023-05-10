@@ -1,0 +1,20 @@
+{
+	"mod":3,
+    "version":"freetds-1.3.3",
+    "space":"17733166",
+    "release_date":"16-05-2021",
+    "name":"FreeTDS",
+    "softname":"freetds",
+    "ins":"1",
+    "type":"libraries",
+    "group_type":"libraries",
+    "category":"libraries",
+    "os":"mac",
+    "arch":"64",
+    "support":"https://dbpedia.org/page/FreeTDS",
+    "desc":"FreeTDS is a free software programming library, a re-implementation of the Tabular Data Stream protocol.",
+    "description":"FreeTDS is a free software programming library, a re-implementation of the Tabular Data Stream protocol.",
+    "fullname":"FreeTDS",
+    "default":"0",
+	"install_path":"apps/"
+}

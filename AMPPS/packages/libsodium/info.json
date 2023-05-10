@@ -1,0 +1,20 @@
+{
+	"mod":0,
+    "version":"libsodium-1.0.18",
+    "space":"4128756",
+    "release_date":"30-05-2019",
+    "name":"Libsodium",
+    "softname":"libsodium",
+    "ins":"1",
+    "type":"libraries",
+    "group_type":"libraries",
+    "category":"libraries",
+    "os":"mac",
+    "arch":"64",
+    "support":" https://libsodium.org",
+    "desc":"Sodium is a new easy-to-use high-speed software library for network communication, encryption, decryption, signatures, etc.",
+    "description":"Sodium is a new easy-to-use high-speed software library for network communication, encryption, decryption, signatures, etc.",
+    "fullname":"Libsodium",
+    "default":"0",
+	"install_path":"apps/"
+}

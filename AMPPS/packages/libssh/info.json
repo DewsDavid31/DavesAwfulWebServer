@@ -1,0 +1,20 @@
+{
+	"mod":2,
+    "version":"libssh2-1.8.0",
+    "space":"1103121",
+    "release_date":"13-10-2020",
+    "name":"Libssh",
+    "softname":"libssh",
+    "ins":"1",
+    "type":"libraries",
+    "group_type":"libraries",
+    "category":"libraries",
+    "os":"mac",
+    "arch":"64",
+    "support":"https://www.libssh2.org/",
+    "desc":"libssh2 is independent project providing a lean C library implementing the SSH2 protocol for embedding specific SSH capabilities into other tools.",
+    "description":"libssh2 is independent project providing a lean C library implementing the SSH2 protocol for embedding specific SSH capabilities into other tools.",
+    "fullname":"Libssh",
+    "default":"0",
+	"install_path":"apps/"
+}

@@ -1,0 +1,20 @@
+{
+	"mod":2,
+    "version":"libzip-1.7.3",
+    "space":"1182395",
+    "release_date":"15-07-2020",
+    "name":"Libzip",
+    "softname":"libzip",
+    "ins":"1",
+    "type":"libraries",
+    "group_type":"libraries",
+    "category":"libraries",
+    "os":"mac",
+    "arch":"64",
+    "support":"https://libzip.org/",
+    "desc":"libzip is a C library for reading, creating, and modifying zip archives.",
+    "description":"libzip is a C library for reading, creating, and modifying zip archives.",
+    "fullname":"Libzip",
+    "default":"0",
+	"install_path":"apps/"
+}

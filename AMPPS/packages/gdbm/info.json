@@ -1,0 +1,20 @@
+{
+	"mod":2,
+    "version":"gdbm-1.12",
+    "space":"1011985",
+    "release_date":"09-02-2022",
+    "name":"GDMB",
+    "softname":"gdbm",
+    "ins":"1",
+    "type":"libraries",
+    "group_type":"libraries",
+    "category":"libraries",
+    "os":"mac",
+    "arch":"64",
+    "support":"https://www.gnu.org.ua/software/gdbm/",
+    "desc":"GNU gdbm (or GDBM, for short) is a library of database functions that use extensible hashing and work similar to the standard UNIX dbm.",
+    "description":"GNU gdbm (or GDBM, for short) is a library of database functions that use extensible hashing and work similar to the standard UNIX dbm.",
+    "fullname":"GDMB",
+    "default":"0",
+	"install_path":"apps/"
+}

@@ -1,0 +1,20 @@
+{
+	"mod":2,
+    "version":"libiconv-1.16",
+    "space":"2528322",
+    "release_date":"26-04-2019",
+    "name":"Libiconv",
+    "softname":"libiconv",
+    "ins":"1",
+    "type":"libraries",
+    "group_type":"libraries",
+    "category":"libraries",
+    "os":"mac",
+    "arch":"64",
+    "support":"https://www.gnu.org/software/libiconv/",
+    "desc":"Libiconv provides support for many encodings and can convert from any of these encodings to any other, through Unicode conversion.",
+    "description":"Libiconv provides support for many encodings and can convert from any of these encodings to any other, through Unicode conversion.",
+    "fullname":"Libiconv",
+    "default":"0",
+	"install_path":"apps/"
+}

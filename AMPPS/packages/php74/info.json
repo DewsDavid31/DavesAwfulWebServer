@@ -1,0 +1,164 @@
+{
+  "mod": 17,
+  "version": "7.4.33",
+  "space": "99121057",
+  "release_date": "03-11-2022",
+  "name": "PHP 7.4",
+  "softname": "php74",
+  "ins": "1",
+  "type": "service",
+  "group_type": "php",
+  "category": "server_side_scripting",
+  "os": "mac",
+  "arch": "64",
+  "support": "https://php.net",
+  "desc": "PHP is a popular general-purpose scripting language that is especially suited to web development.",
+  "description": "PHP is a popular general-purpose scripting language that is especially suited to web development. Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world.",
+  "conf_name": [
+    "PHP conf"
+  ],
+  "conf": [
+    "apps/php74/ampps/php-7.4.ini"
+  ],
+  "logs": [],
+  "logs_name": [],
+  "extension_path": "/ext",
+  "check_extension": "*extension*=*.so",
+  "uncheck_extension": "*;*extension*=*.so",
+  "conf_path": "/php74/ampps/php-7.4.ini",
+  "dir": "/apps/php74/ext",
+  "bin": "php/php.exe",
+  "restore": {
+    "default": "/apps/php74/ampps/php-7.4.ini",
+    "original": "/apps/php74/ampps/original-php-7.4.ini"
+  },
+  "path_conf": "/apps/php74/etc/php.ini",
+  "dir_path": "/apps/php74/etc",
+  "dir_file": "php.ini",
+  "fullname": "PHP 7.4",
+  "default": "1",
+  "soft_php":"1",
+  "upgrade_excludes": [
+    "/etc/"
+  ],
+  "requires": {
+    "imap": {
+      "aid": "56",
+      "fullname": "Imap"
+    },
+    "jpeg": {
+      "aid": "57",
+      "fullname": "Libjpeg"
+    },
+    "ldap": {
+      "aid": "59",
+      "fullname": "OpenLDAP"
+    },
+    "libmcrypt": {
+      "aid": "60",
+      "fullname": "Libmcrypt"
+    },
+    "libonig": {
+      "aid": "61",
+      "fullname": "Libonig"
+    },
+    "libpng": {
+      "aid":"62",
+      "fullname": "Libpng"
+    },
+    "libssh": {
+      "aid":"63",
+      "fullname": "Libssh"
+    },
+    "libtool": {
+      "aid":"64",
+      "fullname": "Libtool"
+    },
+    "libzip": {
+      "aid":"65",
+      "fullname": "Libzip"
+    },
+    "mhash": {
+      "aid":"66",
+      "fullname": "Mhash"
+    },
+    "ncurses": {
+      "aid":"67",
+      "fullname": "Ncurses"
+    },
+    "sqlite": {
+      "aid":"68",
+      "fullname": "SQlite"
+    },
+    "tidy": {
+      "aid":"69",
+      "fullname": "Tidy"
+    },
+    "webp": {
+      "aid":"70",
+      "fullname": "Webp"
+    },
+    "xslt": {
+      "aid":"71",
+      "fullname": "Xslt"
+    },
+    "bzip": {
+      "aid": "47",
+      "fullname": "Bzip"
+    },
+    "curl": {
+      "aid": "48",
+      "fullname": "Curl"
+    },
+    "freetds": {
+      "aid":"49",
+      "fullname": "Freetds"
+    },
+    "freetype": {
+      "aid":"50",
+      "fullname": "Freetype"
+    },
+    "gd": {
+      "aid":"51",
+      "fullname": "Gd"
+    },
+    "gdbm": {
+      "aid":"52",
+      "fullname": "GDBM"
+    },
+    "gettext": {
+      "aid":"53",
+      "fullname": "Gettext"
+    },
+    "gmp": {
+      "aid":"54",
+      "fullname": "GMP"
+    },
+    "icu": {
+      "aid":"55",
+      "fullname": "ICU"
+    },
+    "krb5": {
+      "aid":"58",
+      "fullname": "Krb5"
+    },
+    "libsodium": {
+      "aid":"72",
+      "fullname": "Libsodium"
+    },
+    "zstd": {
+      "aid":"76",
+      "fullname": "Zstd"
+    }
+  },
+  "upgrade_requires":{
+	"libsodium": {
+	  "aid":"72",
+	  "fullname": "Libsodium"
+    },
+    "zstd": {
+      "aid":"76",
+      "fullname": "Zstd"
+    }
+  }
+}

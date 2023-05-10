@@ -1,0 +1,20 @@
+{
+	"mod":2,
+    "version":"tidy-html5-5.8.0",
+    "space":"5245585",
+    "release_date":"17-07-2021",
+    "name":"Tidy",
+    "softname":"tidy",
+    "ins":"1",
+    "type":"libraries",
+    "group_type":"libraries",
+    "category":"libraries",
+    "os":"mac",
+    "arch":"64",
+    "support":"https://fossies.org/dox/tidy-html5-5.8.0/md_README_BUILD.html",
+    "desc":"HTML Tidy contains a command line tool and libraries that correct and clean up HTML and XML documents by fixing markup errors and upgrading legacy code to modern standards.",
+    "description":"HTML Tidy contains a command line tool and libraries that correct and clean up HTML and XML documents by fixing markup errors and upgrading legacy code to modern standards.",
+    "fullname":"Tidy",
+    "default":"0",
+	"install_path":"apps/"
+}

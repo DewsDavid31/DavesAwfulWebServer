@@ -1,0 +1,20 @@
+{
+	"mod":2,
+    "version":"sqlite-autoconf-3360000",
+    "space":"16263658",
+    "release_date":"18-06-2021",
+    "name":"SQLite",
+    "softname":"sqlite",
+    "ins":"1",
+    "type":"libraries",
+    "group_type":"libraries",
+    "category":"libraries",
+    "os":"mac",
+    "arch":"64",
+    "support":"https://www.sqlite.org/index.html",
+    "desc":"SQLite is a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine.",
+    "description":"SQLite is a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine.",
+    "fullname":"SQLite",
+    "default":"0",
+	"install_path":"apps/"
+}

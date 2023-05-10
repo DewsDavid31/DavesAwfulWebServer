@@ -1,0 +1,27 @@
+#! /bin/sh
+#
+# Created by configure
+
+CPPFLAGS="-I/Applications/AMPPS/apps/include"; export CPPFLAGS
+LDFLAGS="-L/Applications/AMPPS/apps/lib"; export LDFLAGS
+"./configure" \
+"--prefix=/Applications/AMPPS/apps/apache" \
+"--sysconfdir=/Applications/AMPPS/apps/apache/etc" \
+"--with-expat=/Applications/AMPPS/apps" \
+"--with-included-apr" \
+"--with-included-apr-util" \
+"--datadir=/Applications/AMPPS/apps/apache/www" \
+"--enable-mods-shared=all ssl cache proxy authn_alias mem_cache file_cache charset_lite dav_lock disk_cache deflate" \
+"--enable-proxy-html" \
+"--enable-xml2enc" \
+"--with-libxml2=/Applications/AMPPS/apps/include/libxml2/" \
+"--with-mpm=prefork" \
+"--with-pcre=/Applications/AMPPS/apps/bin/pcre-config" \
+"--with-z=/Applications/AMPPS/apps" \
+"--with-ssl=/Applications/AMPPS/apps" \
+"--with-openssl=shared,/Applications/AMPPS/apps" \
+"--with-openssl-dir=/Applications/AMPPS/apps" \
+"--enable-ssl" \
+"LDFLAGS=-L/Applications/AMPPS/apps/lib" \
+"CPPFLAGS=-I/Applications/AMPPS/apps/include" \
+"$@"

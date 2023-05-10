@@ -1,0 +1,20 @@
+{
+	"mod":2,
+    "version":"gettext-0.21",
+    "space":"25845333",
+    "release_date":"27-07-2020",
+    "name":"Gettext",
+    "softname":"gettext",
+    "ins":"1",
+    "type":"libraries",
+    "group_type":"libraries",
+    "category":"libraries",
+    "os":"mac",
+    "arch":"64",
+    "support":"https://www.gnu.org/software/gettext/",
+    "desc":"Gettext is a package providing a framework for translating the textual output of programs into multiple languages.",
+    "description":"Gettext is a package providing a framework for translating the textual output of programs into multiple languages.",
+    "fullname":"Gettext",
+    "default":"0",
+	"install_path":"apps/"
+}

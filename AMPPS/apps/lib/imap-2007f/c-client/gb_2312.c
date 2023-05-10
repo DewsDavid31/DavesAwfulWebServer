@@ -1,0 +1,1 @@
+/Applications/AMPPS/apps/lib/imap-2007f/src/charset/gb_2312.c

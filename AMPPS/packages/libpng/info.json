@@ -1,0 +1,20 @@
+{
+	"mod":2,
+    "version":"libpng-1.6.37",
+    "space":"3837130",
+    "release_date":"14-04-2019",
+    "name":"Libpng",
+    "softname":"libpng",
+    "ins":"1",
+    "type":"libraries",
+    "group_type":"libraries",
+    "category":"libraries",
+    "os":"mac",
+    "arch":"64",
+    "support":"http://www.libpng.org/pub/png/libpng.html",
+    "desc":"The libpng package contains a library of functions for creating and manipulating PNG (Portable Network Graphics) image format files.",
+    "description":"The libpng package contains a library of functions for creating and manipulating PNG (Portable Network Graphics) image format files.",
+    "fullname":"Libpng",
+    "default":"0",
+	"install_path":"apps/"
+}

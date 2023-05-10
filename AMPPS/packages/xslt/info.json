@@ -1,0 +1,20 @@
+{
+	"mod":2,
+    "version":"libxslt-1.1.34",
+    "space":"4432298",
+    "release_date":"30-10-2019",
+    "name":"Xslt",
+    "softname":"xslt",
+    "ins":"1",
+    "type":"libraries",
+    "group_type":"libraries",
+    "category":"libraries",
+    "os":"mac",
+    "arch":"64",
+    "support":"http://xmlsoft.org/libxslt/",
+    "desc":"Libxslt is the XSLT C library developed for the GNOME project. XSLT itself is a an XML language to define transformation for XML.",
+    "description":"Libxslt is the XSLT C library developed for the GNOME project. XSLT itself is a an XML language to define transformation for XML.",
+    "fullname":"Xslt",
+    "default":"0",
+	"install_path":"apps/"
+}

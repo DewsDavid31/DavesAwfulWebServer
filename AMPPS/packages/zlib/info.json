@@ -1,0 +1,20 @@
+{
+	"mod":1,
+    "version":"1.2.11",
+    "space":"653684",
+    "release_date":"15-01-2017",
+    "name":"Zlib",
+    "softname":"zlib",
+    "ins":"1",
+    "type":"libraries",
+    "group_type":"libraries",
+    "category":"libraries",
+    "os":"mac",
+    "arch":"64",
+    "support":":https://zlib.net/",
+    "desc":"zlib lib is free, general-purpose, legally unencumbered ,lossless data-compression library for use on virtually any computer hardware and operating system. The zlib data format is itself portable across platforms",
+    "description":"zlib lib is free, general-purpose, legally unencumbered ,lossless data-compression library for use on virtually any computer hardware and operating system. The zlib data format is itself portable across platforms",
+    "fullname":"Zlib",
+    "default":"0",
+	"install_path":"apps/"
+}

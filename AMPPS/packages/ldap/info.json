@@ -1,0 +1,20 @@
+{
+	"mod":2,
+    "version":"openldap-2.5.6",
+    "space":"6786131",
+    "release_date":"27-07-2021",
+    "name":"OpenLDAP",
+    "softname":"ldap",
+    "ins":"1",
+    "type":"libraries",
+    "group_type":"libraries",
+    "category":"libraries",
+    "os":"mac",
+    "arch":"64",
+    "support":"https://www.openldap.org/",
+    "desc":"The LDAP Libraries for C SDK enables application developers to write applications to access, manage, update and search for information stored in eDirectory and other LDAP-aware directories.",
+    "description":"The LDAP Libraries for C SDK enables application developers to write applications to access, manage, update and search for information stored in eDirectory and other LDAP-aware directories.",
+    "fullname":"OpenLDAP",
+    "default":"0",
+	"install_path":"apps/"
+}

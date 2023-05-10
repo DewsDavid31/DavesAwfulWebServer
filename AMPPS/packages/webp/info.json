@@ -1,0 +1,20 @@
+{
+	"mod":2,
+    "version":"libwebp-1.2.1",
+    "space":"2992680",
+    "release_date":"14-08-2021",
+    "name":"Webp",
+    "softname":"webp",
+    "ins":"1",
+    "type":"libraries",
+    "group_type":"libraries",
+    "category":"libraries",
+    "os":"mac",
+    "arch":"64",
+    "support":"https://developers.google.com/speed/webp",
+    "desc":"libwebp is a modern image format that provides superior lossless and lossy compression for images on the web. Using WebP, webmasters and web developers can create smaller, richer images that make the web faster.",
+    "description":"libwebp is a modern image format that provides superior lossless and lossy compression for images on the web. Using WebP, webmasters and web developers can create smaller, richer images that make the web faster.",
+    "fullname":"Webp",
+    "default":"0",
+	"install_path":"apps/"
+}

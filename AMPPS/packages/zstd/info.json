@@ -1,0 +1,20 @@
+{
+    "mod":1,
+    "version":"1.5.2",
+    "space":"3432210",
+    "release_date":"21-01-2022",
+    "name":"Zstd",
+    "softname":"zstd",
+    "ins":"1",
+    "type":"libraries",
+    "group_type":"libraries",
+    "category":"libraries",
+    "os":"mac",
+    "arch":"64",
+    "support":":http://www.zstd.net/",
+    "desc":"Zstandard(zstd) is a fast compression algorithm, providing high compression ratios.",
+    "description":"Zstandard(zstd) is a fast compression algorithm, providing high compression ratios. It also offers a special mode for small data, called dictionary compression. The reference library offers a very wide range of speed / compression trade-off, and is backed by an extremely fast decoder . Zstandard library is provided as open source software using a BSD license.",
+    "fullname":"Zstd",
+    "default":"0",
+    "install_path":"apps/"
+}
